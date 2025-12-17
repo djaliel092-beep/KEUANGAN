@@ -1,0 +1,5 @@
+{
+  "name": "EduFinance Pro",
+  "description": "A modern school finance management system replacing VBA/Excel. Features SPP payments, expense tracking, real-time dashboard, and WhatsApp notifications.",
+  "requestFramePermissions": []
+}
